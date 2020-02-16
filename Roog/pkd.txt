@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 17k7453
 
 cs302
 sd&p
+=======
+17k7453
+>>>>>>> cbae34e... textfile with student number
